@@ -1,0 +1,75 @@
+
+body{
+    line-height: 2.5;
+}
+.ma-class1 {
+    font-family: 'Lobster', cursive;
+    text-align: center 
+  /* boder: 2px solid puple;*/
+   borter-bottom: 2px solid blank;
+   borter-top: 2px solid gray;
+}
+
+.ma-class2{
+
+    font-family: 'Bungee Inline', cursive;
+    font-size: 65px;
+}
+.ma-class3{
+
+   font-weight: bold; 
+   font-size: 70px;
+   font-style: italic;
+}
+.ma-class4{
+
+    font-size: 50px;
+}
+
+.list-style-type {  
+     upper-alpha }
+
+
+#paragaphe-final{
+    background-image: url ("https://www.lesoir.be/252496/article/2019-10-09/meteo-des-averses-en-cascade");
+    width:40%;
+    background-repaet: no -repaet;
+    background-positon : center center;
+    color:  white; }
+
+p{
+
+    width: 45%;
+    margin-bottom: 45px;
+}
+h2 { 
+    margin: 50px 0; 
+}
+
+body{
+
+    width: 800px;
+    margin: 0 auto;
+}
+body{
+
+    line-height: 1.5;
+    
+}
+
+
+body{
+
+width: 800px
+margrin; 0
+line-height: 1.5
+border: 2px 
+}
+
+
+#final {
+background-color: aqua ;
+padding: 20px 20px;
+margin: 20px 20px;
+height: 20px;
+}
