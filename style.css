@@ -16,8 +16,8 @@ body{
     font-size: 65px;
 }
 .ma-class3{
-
-   font-weight: bold; 
+    font-family: 'Bungee Inline', cursive;
+   font-weight: bolder;
    font-size: 70px;
    font-style: italic;
 }
